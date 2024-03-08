@@ -8,8 +8,4 @@ Unit2:
   title: Learn Language
   description: Learn (JavaScript|Python|Java).  Start Agile development process.
   start: 4
-  end: 12
-TRI.3:
-  title: Trimester 3
-  start: 25
-  end: 36
+  end: 25
